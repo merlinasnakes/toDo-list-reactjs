@@ -3,7 +3,7 @@ import './App.css';
 import tareasprueba from "./sample/tareasprueba";
 import Tareas from "./components/Tareas"
 import FormularioTarea from "./components/FormularioTarea";
-import Style from './components/Style.css';
+import './components/Style.css';
 
 
 class App extends React.Component {
@@ -60,7 +60,6 @@ class App extends React.Component {
               checkRealizada={this.checkRealizada}
             />
         </ul> 
-
         </div>
       </div>
     </div>    
