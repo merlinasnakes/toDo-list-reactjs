@@ -1,6 +1,6 @@
 import React from 'react';
-import checkicon from '../icons/cat.png';
-import trashicon from '../icons/trash.svg';
+import checkicon from '../icons/check.png';
+import trashicon from '../icons/trash.png';
 
 
 export default class Tarea extends React.Component {
