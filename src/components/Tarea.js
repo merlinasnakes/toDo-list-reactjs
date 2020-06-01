@@ -1,5 +1,5 @@
 import React from 'react';
-import checkicon from '../icons/check.svg';
+import checkicon from '../icons/cat.png';
 import trashicon from '../icons/trash.svg';
 
 
